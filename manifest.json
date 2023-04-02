@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Todo List",
     "version": "1.0",
-    "description": "A simple todo list Chrome extension",
+    "description": "TodoV is the easiest way to stay on top of your daily tasks. Create and manage your to-do list with our simple extensions so you'll never miss a task again.",
     "icons": {
       "16": "icon16.png",
       "48": "icon48.png",
